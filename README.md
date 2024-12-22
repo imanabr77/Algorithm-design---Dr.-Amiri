@@ -36,4 +36,4 @@ To run this project, you need to have Go installed on your system. Follow these 
 
 ## Usage
 
-The project includes a simple example of sorting an array using Bubble Sort. Here's how to use it:
+You can run the algorithm by running the main.go file inside each folder.
