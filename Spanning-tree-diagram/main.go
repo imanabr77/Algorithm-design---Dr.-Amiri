@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// Edge represents a graph edge
+// Edge represents a graph edge.
 type Edge struct {
 	to     int
 	weight int
