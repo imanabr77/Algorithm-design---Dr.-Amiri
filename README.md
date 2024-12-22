@@ -17,6 +17,10 @@ This project aims to demonstrate basic algorithm design principles through the i
 ## Features
 
 - Implementation of Bubble Sort algorithm
+- Implementation of Quick Sort algorithm
+- Implementation of Link Sort algorithm
+- Implementation of Spanning-tree-diagram algorithm
+- Implementation of Addition-of-two-matrices algorithm
 - Clear and readable Go code
 - Example usage in the main.go file
 
