@@ -11,14 +11,14 @@ type Edge struct {
 	weight int
 }
 
-// PriorityQueueItem represents an item in the priority queue
+// PriorityQueueItem represents an item in the priority queue.
 type PriorityQueueItem struct {
 	node   int
 	weight int
 	index  int
 }
 
-// PriorityQueue implements a min-heap priority queue
+// PriorityQueue implements a min-heap priority queue.
 type PriorityQueue []*PriorityQueueItem
 
 func (pq PriorityQueue) Len() int           { return len(pq) }
