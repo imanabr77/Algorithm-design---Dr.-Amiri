@@ -78,7 +78,7 @@ func PrimMST(graph map[int][]Edge, start int) (int, []Edge) {
 }
 
 func main() {
-	// Define the graph as an adjacency list
+	// Define the graph as an adjacency list.
 	graph := map[int][]Edge{
 		0: {{to: 1, weight: 4}, {to: 6, weight: 7}},
 		1: {{to: 0, weight: 4}, {to: 2, weight: 9}, {to: 6, weight: 11}, {to: 4, weight: 20}},
